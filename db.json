@@ -218,7 +218,7 @@
         "description": "Curry & mini bites, cook something.",
         " wet": "Curry & mini bites.",
         "qty": "460gms",
-        "category": "Curry Cut",
+        "category": "Ready to Cook",
         "price": 499
       },
       {
@@ -236,7 +236,7 @@
         "title": "Chicken Curry Cut (Small pcs)   10 Pcs",
         "description": "Snack to dinner time, plan your.",
         "wet": "450gms",
-        "category": "CurryCuts",
+        "category": "Ready to Cook",
         "price": 330
       },
       {
@@ -291,7 +291,7 @@
         "title": "Freshwater Prawns (Jhinga)  ",
         "description": "Freshwater prawns. .",
         "wet": "10",
-        "category": "ReadytoCook",
+        "category": "Ready to Cook",
         "price": 185,
         "image": "https://dao54xqhg9jfa.cloudfront.net/ProductMerchantdising/b934c222-75c7-4046-d914-914ca668b37d/original/1596201422.7072--2020-07-3118_47_02--738.jpeg?format=webp"
       },
@@ -300,7 +300,7 @@
         "title": "Freshwater Prawns 40C-60C (Jhinga) Large Pack",
         "description": "Freshwater,  with head and tail removed.",
         "wet": "500gms",
-        "category": "Seawater",
+        "category": "Meat Masalas",
         "price": 450,
         "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/c6f75316-efb6-4f23-e7fa-851e3e3d00ea/original/p2_tile_images_6th_folder-10_(2).jpg?format=webp"
       },
@@ -309,7 +309,7 @@
         "title": "Indian Salmon (Rawas/Gurjali)  ",
         "description": "Omega 3 rich, mild tasting .",
         "wet": "350gms",
-        "category": "Freshwater",
+        "category": "Meat Masalas",
         "price": 456,
         "image": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_gi9kauyla8l/1/prod_display_image/1623211757.2848--2021-06-0909:39:17--738?format=webp"
       },
@@ -318,7 +318,7 @@
         "title": "Basa - Fry Cut",
         "description": "This boneless cut .",
         "wet": "250gms",
-        "category": "Seawater",
+        "category": "Meat Masalas",
         "price": 300,
         "image": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_kkxktwxejd0/1/prod_display_image/1633853715.0982--2021-10-1013:45:15--1818"
       },
@@ -328,7 +328,7 @@
         "description": "Boneless pieces of basa.",
         "wet": "250gms",
         "price": 199,
-        "category": "ReadytoCook",
+        "category": "Ready to Cook",
         "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/e78567eb-9aaf-9539-589b-48ad9e6d2676/original/p2_tile_images_6th_folder-19.jpg?format=webp"
       },
       {
@@ -345,7 +345,7 @@
         "title": "Indian Salmon (Rawas/Gurjali)  ",
         "description": "Omega 3 , mild tasting Indian salmon",
         " wet": "350gms",
-        "category": "ReadytoCook",
+        "category": "Meat Masalas",
         "price": 300,
         "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/7f4bdc51-123a-4854-075c-0762953faa4c/original/unnamed.jpg?format=webp"
       },
