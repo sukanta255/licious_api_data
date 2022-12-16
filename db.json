@@ -361,7 +361,15 @@
       }
     ],
     "cart": [
-      
+      {
+        "id": 1,
+        "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/d667aa91-ba62-2117-a672-034b58bbac39/original/Chicken-Drumstick---Hero-Shot.jpg",
+        "title": "Chicken Drumstick - Pack Of 6",
+        "description": "Fresh nakhre for fresh, juicy & tender chicken thigh cuts",
+        "wet": "450gms",
+        "category": "SpecialityCuts",
+        "price": 271
+      }
     ],
     "posts": [
       {
